@@ -9,7 +9,7 @@ Estudante de Sistemas de Informação na UFMS-CPTL, com técnico em Análise e D
 📚 | Foco atual: aprofundamento em desenvolvimento de software e interesse em iniciação científica</br>
 
 --- 
-### Linguagens e tecnologias
+### Tecnologias
 
 <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
